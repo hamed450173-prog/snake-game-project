@@ -19,4 +19,4 @@ python the_snake.py
 ```
 ## Project Preview
 
-![Snake Game](snake-game.png)
+![Snake Game](snake-game.png.png)
