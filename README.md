@@ -17,3 +17,6 @@ A classic Snake Game developed using Python and the Turtle graphics library.
 ```bash
 python the_snake.py
 ```
+## Project Preview
+
+![Snake Game](images/snake-game.png)
